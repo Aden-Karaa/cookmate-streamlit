@@ -1,7 +1,7 @@
+streamlit
 openai
 moviepy
 gtts
 Pillow
 requests
 google-generativeai
-
